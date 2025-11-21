@@ -6,4 +6,5 @@ langchain-google-genai
 pypdf
 tiktoken
 langchain-openai
+crewai[google-genai]
 
